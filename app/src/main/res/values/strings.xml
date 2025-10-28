@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">List View</string>
+
+    <string-array name="country_names">
+        <item>Afghanistan</item>
+        <item>Afrika Selatan</item>
+        <item>Albania</item>
+        <item>Bahama</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Kamboja</item>
+        <item>Kamerun</item>
+        <item>Kanada</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominika</item>
+        <item>Ekuador</item>
+        <item>El Salvador</item>
+        <item>Eritrea</item>
+        <item>Fiji</item>
+        <item>Filipina</item>
+        <item>Finlandia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+    </string-array>
+
+</resources>
